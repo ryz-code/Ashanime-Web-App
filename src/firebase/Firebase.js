@@ -43,14 +43,3 @@ export const SignInAnonymously = (dispatch) => {
       console.log(error);
     });
 };
-
-export const firebaseConfig = {
-	apiKey: "3pI6iDj89Yyf7vLeHRvYaZuM",
-	authDomain: "pornu.firebaseapp.com",
-	databaseURL: "your database url",
-	projectId: "FQnuP0SF9Fc7hLqgQY524FTY",
-	storageBucket: "projectid.appspot.com",
-	messagingSenderId: "333747474747477",
-	appId: "ryujinxd6",
-	measurementId: "R-FKJHSJW",
-};
